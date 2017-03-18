@@ -35,29 +35,29 @@ Planet_Quad - My latest (old) planet rendering algorithm. It uses a chunked quad
 ## Common Keyboard Controls:
 The camera controls are similar to the old Descent games, except for the fact that w/s/a/d accelerate the camera in a certain direction instead of simply moving it. Hold down the control key to accelerate more quickly (useful when moving around the planet), and expect to use the space bar a lot to stop. It's annoying when trying to hug the surface of the planet, but once you get the hang of it, you'll realize it offers pretty good control for maneuvering to specific viewpoints you need to look at.
 
-<Escape>        Exit
+<b>&lt;Escape&gt;</b>        Exit
 
-w               Thrust forward
+<b>w</b>               Thrust forward
 
-s               Thrust reverse
+<b>s</b>               Thrust reverse
 
-a               Thrust left
+<b>a</b>               Thrust left
 
-d               Thrust right
+<b>d</b>               Thrust right
 
-q               Rotate left
+<b>q</b>               Rotate left
 
-e               Rotate right
+<b>e</b>               Rotate right
 
-<Ctrl>          Boost thrusters 100x
+<b>&lt;Ctrl&gt;</b>          Boost thrusters 100x
 
-<space>         Full stop
+<b>&lt;space&gt;</b>         Full stop
 
-<arrow keys>    Turn camera
+<b>&lt;arrow keys&gt;</b>    Turn camera
 
-p               Toggle polygon mode (fill/wireframe)
+<b>p</b>               Toggle polygon mode (fill/wireframe)
 
-h               Toggle HDR rendering
+<b>h</b>               Toggle HDR rendering
 
-+/-             Increase/decrease either the split factor or the exposure constant for HDR rendering
+<b>+/-</b>             Increase/decrease either the split factor or the exposure constant for HDR rendering
 
