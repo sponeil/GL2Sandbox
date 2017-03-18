@@ -1,0 +1,9 @@
+.vs
+ipch
+Build
+*.db
+*.opendb
+*.log
+*.user
+*.swp
+*~
